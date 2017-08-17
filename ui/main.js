@@ -20,7 +20,7 @@ button.onclick 	= 	function(){
 		
 	}
 
-	request.open('GET','http://localhost/counter',true);
+	request.open('GET','http://http://neerajbhusari.imad.hasura-app.io//counter',true);
 	request.send(null);
 
 };
